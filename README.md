@@ -7,9 +7,9 @@
 ##### Redhat의 공식 파트너사로 미들웨어와 OS, Cloud 등 인프라 운영에 필요한 전반적인 소프트웨어를 운영하고 있습니다.
 ##### 현재 저의 직무는 JBoss (WAS)와 Apache (WEB)의 설치 구축 및 운영 관리를 총괄하여 담당하고 있으며, 
 ##### OCP(Openshift Cloud Platform) 환경에서 배포와 관련한 부분을 함께 담당하고 있습니다.
----
-### Tasks
-####  WEB-WAS의 신규 설치 및 트러블 슈팅
+
+### 💻 Tasks
+####  WEB-WAS 신규 설치 및 트러블 슈팅
 ##### 2021.04 ~ 현재
 - JBoss standalone 방식 설치 구축
 - WAS간 세션 클러스터링 설정
@@ -35,8 +35,9 @@
 <img src="https://t1.daumcdn.net/cfile/tistory/9941A1385B99240D2E"  height="70"/>
 <img src="https://hiseon.me/wp-content/uploads/2018/02/Apache-Web-Server.png"  height="70"/>
 <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb6pZi7%2FbtqJsiEguPL%2FkFtgaJrDKnYrAuGpveix80%2Fimg.png"  width="70"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png"  width="70"/>
- </div>
+<img src="https://blog.kakaocdn.net/dn/cYvH0j/btqBiBEIlr7/JspjSSVTRoEuGLEB0rHlB1/img.png"  width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png"  width="70"/>
+</div>
  
 ---
 
