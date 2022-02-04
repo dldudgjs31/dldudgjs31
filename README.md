@@ -43,8 +43,12 @@
  
 ---
 ### 🙋‍♂️ Projects & Study
-#### [JAVA&SPRING] 커뮤니티와 중고거래 그리고 스토어가 결합된 커뮤니티 웹 개발
-- [NCHA PROJECT](https://github.com/dldudgjs31/Final_Project)
+#### ✔ [JAVA&SPRING] 커뮤니티와 중고거래 그리고 스토어가 결합된 커뮤니티 웹 개발 프로젝트
+- [PROJECT](https://github.com/dldudgjs31/Final_Project)
+#### ✔ [JAVA&SERVLET] 개발자들의 커뮤니티 목적의 웹 사이트 개발 프로젝트
+- [PROJECT](https://github.com/dldudgjs31/semiProject_Servlet-JSP-JAVA)
+#### ✔ [JAVA&SPRINGBOOT] SPRINGBOOT & JPA 를 활용한 블로그 프로젝트
+- [PROJECT](https://github.com/dldudgjs31/springboot-jpa-project)
 ---
 ### 👨‍🎓  Graduation & Education
 
