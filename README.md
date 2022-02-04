@@ -7,6 +7,26 @@
 ##### Redhat의 공식 파트너사로 미들웨어와 OS, Cloud 등 인프라 운영에 필요한 전반적인 소프트웨어를 운영하고 있습니다.
 ##### 현재 저의 직무는 JBoss (WAS)와 Apache (WEB)의 설치 구축 및 운영 관리를 총괄하여 담당하고 있으며, 
 ##### OCP(Openshift Cloud Platform) 환경에서 필요한 CI/CD와 배포와 관련한 부분을 함께 담당하고 있습니다.
+---
+### 주요 업무
+####  WEB-WAS의 신규 설치 및 트러블 슈팅
+##### 2021.04 ~ 현재
+- JBoss standalone 방식 설치 구축
+- WAS간 세션 클러스터링 설정
+- WEB-WAS AJP프로토콜을 통한 로드밸런싱 구성
+- WEB-WAS 보안취약점 적용(SSL, Http Method 제한 등)
+- WAS JVM 성능 튜닝
+- Web Application & WAS 장애 지원
+- WAS - RDBMS 연결 및 설정
+- 고객사 WEB-WAS 점검 작업 지원
+- 설치 및 점검에 필요한 쉘스크립트 제작
+
+####  OCP 설치 및 지원
+##### 2021.11 ~ 현재
+- OCP 클러스터 설치(4.8v)
+- WEB-WAS 컨테이너화 작업
+- 클라우드 환경에서 배포 테스트 진행(JAVA 기반 WEB APP)
+- 고객사 OCP 점검 작업 지원
 
 ---
 ### 🔨 Skills
