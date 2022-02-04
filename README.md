@@ -8,7 +8,7 @@
 ##### 현재 저의 직무는 JBoss (WAS)와 Apache (WEB)의 설치 구축 및 운영 관리를 총괄하여 담당하고 있으며, 
 ##### OCP(Openshift Cloud Platform) 환경에서 배포와 관련한 부분을 함께 담당하고 있습니다.
 ---
-### 주요 업무
+### Tasks
 ####  WEB-WAS의 신규 설치 및 트러블 슈팅
 ##### 2021.04 ~ 현재
 - JBoss standalone 방식 설치 구축
