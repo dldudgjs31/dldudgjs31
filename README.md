@@ -1,7 +1,7 @@
 ### 안녕하세요. 이영헌입니다.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdldudgjs31&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
-### 👩‍💻 Career
+### 👩‍💻  Career
 #### Pentalink (주) 펜타린크
 ##### 2021.02 ~ 현재
 ##### Redhat의 공식 파트너사로 미들웨어와 OS, Cloud 등 인프라 운영에 필요한 전반적인 소프트웨어를 운영하고 있습니다.
@@ -9,17 +9,35 @@
 ##### OCP(Openshift Cloud Platform) 환경에서 필요한 CI/CD와 배포와 관련한 부분을 함께 담당하고 있습니다.
 
 ---
-### 👨‍🎓Graduation & Education
+### 🔨 Skills
+<div style="display: flex; justify-content:center; align-items:center; width: 100%; height: 200;">
+<img src="https://www.hanumoka.net/images/20180412-java-equals-hashCode_1.png"  height="70"/>
+<img src="https://t1.daumcdn.net/cfile/tistory/9941A1385B99240D2E"  height="70"/>
+<img src="https://hiseon.me/wp-content/uploads/2018/02/Apache-Web-Server.png"  height="70"/>
+<img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb6pZi7%2FbtqJsiEguPL%2FkFtgaJrDKnYrAuGpveix80%2Fimg.png"  width="70"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png"  width="70"/>
+ </div>
+ 
+---
 
-#### 쌍용강북교육센터 (국비지원 교육)
+### 👨‍🎓  Graduation & Education
+
+#### ✔ 쌍용강북교육센터 (국비지원 교육)
 ##### 2020.07 ~ 2021.01
 ##### Java 풀스택 개발자 과정 수료  
-
-
-#### 홍익대학교 (세종)
+  
+  
+#### ✔ 홍익대학교 (세종)
 ##### 2013.03 ~ 2020.08 광고홍보학부 졸업
 ##### 
 ---
+### 🏆 Certificate
+#### ✔ 정보처리기사 (2020.11)
+#### ✔ SQLD (2021.04)
+#### ✔ Certified Kubernetes Administrator (CKA)(2021.12)
+---
+### 🙋‍♂️ Study
+#### 
 [![Younghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldudgjs31)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
