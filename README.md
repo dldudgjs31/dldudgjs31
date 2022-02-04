@@ -42,7 +42,10 @@
 </div>
  
 ---
-
+### 🙋‍♂️ Projects & Study
+#### [JAVA&SPRING] 커뮤니티와 중고거래 그리고 스토어가 결합된 커뮤니티 웹 개발
+- [NCHA PROJECT](https://github.com/dldudgjs31/Final_Project)
+---
 ### 👨‍🎓  Graduation & Education
 
 #### ✔ 쌍용강북교육센터 (국비지원 교육)
@@ -59,8 +62,7 @@
 #### ✔ SQLD (2021.04)
 #### ✔ Certified Kubernetes Administrator (CKA)(2021.12)
 ---
-### 🙋‍♂️ Study
-#### 
+
 [![Younghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldudgjs31)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
