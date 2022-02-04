@@ -37,6 +37,8 @@
 <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb6pZi7%2FbtqJsiEguPL%2FkFtgaJrDKnYrAuGpveix80%2Fimg.png"  width="70"/>
 <img src="https://blog.kakaocdn.net/dn/cYvH0j/btqBiBEIlr7/JspjSSVTRoEuGLEB0rHlB1/img.png"  width="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png"  width="70"/>
+ <img src="https://mblogthumb-phinf.pstatic.net/MjAxNzAzMTJfMjY3/MDAxNDg5Mjk2ODUyMDAz.6ZKzDX86YZh32qXlu7xuxQSOuI55wF3n9sGuLSRkF0Mg.8tx-NlT4UQgdyOVtSbqUb6VHrJqyXwzGCd6fWn_sgRwg.PNG.wlsdml1103/%EB%A6%AC%EB%88%85%EC%8A%A4.png?type=w800"  height="60"/>
+ 
 </div>
  
 ---
