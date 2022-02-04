@@ -6,10 +6,16 @@
 ##### 2021.02 ~ 현재
 ##### Redhat의 공식 파트너사로 미들웨어와 OS, Cloud 등 인프라 운영에 필요한 전반적인 소프트웨어를 운영하고 있습니다.
 ##### 현재 저의 직무는 JBoss (WAS)와 Apache (WEB)의 설치 구축 및 운영 관리를 총괄하여 담당하고 있으며, 
-##### 기술스택의 전환을 위해 OCP(Openshift Cloud Platform) 환경에서 필요한 CI/CD와 배포와 관련한 부분을 함께 담당하고 있습니다.
+##### OCP(Openshift Cloud Platform) 환경에서 필요한 CI/CD와 배포와 관련한 부분을 함께 담당하고 있습니다.
 
 ---
 ### 👨‍🎓Graduation
+
+#### 쌍용강북교육센터
+##### 2020.07 ~ 2021.01
+#### 홍익대학교 (세종)
+##### 2013.03 ~ 2020.08 광고홍보학부 졸업
+##### 
 ---
 [![Younghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldudgjs31)](https://github.com/anuraghazra/github-readme-stats)
 
