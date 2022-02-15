@@ -17,12 +17,6 @@
 ---
 
 ### 🙋‍♂️ Projects
-#### ✔ [JAVA&SPRINGBOOT] SPRINGBOOT & JPA 를 활용한 블로그 프로젝트
-- 2022.01.12 ~ 2022.02.04
-- 개인적인 스터디 목적으로 진행한 프로젝트입니다.
-- Spring Boot와 JPA를 활용하여 기본적인 REST API 형태의 게시판과 sns 계정연동(카카오 api)를 이용한 로그인을 구현한 프로젝트 입니다.
-- 1인 1팀, 개인 프로젝트로 진행하였습니다.
-- [PROJECT](https://github.com/dldudgjs31/springboot-jpa-project)
 
 #### ✔ [JAVA&SPRING] 커뮤니티와 중고거래 그리고 스토어가 결합된 커뮤니티 웹 개발 프로젝트
 - 2020.11.13 ~ 2021.01.07
@@ -44,6 +38,13 @@
 - 디스코드를 활용하여 매주 리뷰를 진행하였습니다.
 - 4인 스터디
 - [Repository로 이동](https://github.com/dldudgjs31/python-for-coding-test)
+
+#### ✔ [JAVA&SPRINGBOOT] SPRINGBOOT & JPA 를 활용한 블로그 프로젝트
+- 2022.01.12 ~ 2022.02.04
+- 개인적인 스터디 목적으로 진행한 프로젝트입니다.
+- Spring Boot와 JPA를 활용하여 기본적인 REST API 형태의 게시판과 sns 계정연동(카카오 api)를 이용한 로그인을 구현한 프로젝트 입니다.
+- 1인 1팀, 개인 프로젝트로 진행하였습니다.
+- [Repository로 이동](https://github.com/dldudgjs31/springboot-jpa-project)
 
 #### ✔ [JAVA&SPRINGBOOT] SPRINGBOOT & JPA 를 활용한 사진 갤러리형 커뮤니티 프로젝트
 - 2022.02.05 ~ 현재
